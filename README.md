@@ -1,4 +1,4 @@
-# Feature 1
+# Groupware creation skills
 
 Simple code repository with the following workflow
 
